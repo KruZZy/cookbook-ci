@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cookbook-ci/cookbook/cookbook.cpp
+iostream
+-
+fstream
+-
+string
+-
+cookbook.h
+D:/cookbook-ci/cookbook/cookbook.h
+../explode.h
+D:/cookbook-ci/explode.h
+../ingredient/ingredient.h
+D:/cookbook-ci/ingredient/ingredient.h
+
+D:/cookbook-ci/cookbook/cookbook.h
+vector
+-
+../ingredient/ingredient.h
+D:/cookbook-ci/ingredient/ingredient.h
+
+D:/cookbook-ci/explode.h
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+
+D:/cookbook-ci/ingredient/ingredient.h
+string
+-
+
