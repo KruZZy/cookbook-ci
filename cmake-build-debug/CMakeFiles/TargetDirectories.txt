@@ -1,3 +1,0 @@
-D:/cookbook-ci/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/cookbook-ci/cmake-build-debug/CMakeFiles/cookbook_ci.dir
-D:/cookbook-ci/cmake-build-debug/CMakeFiles/edit_cache.dir
