@@ -1,2 +1,2 @@
-vodka|5
 whiskey|10
+beer|10
